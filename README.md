@@ -5,6 +5,8 @@ A dark Atom theme made by [Tempo](https://tempo.io), featuring our signature Tem
 ![screenshot](images/tempo-theme-screenshot.png)
 
 ## Installation
+This extension is available in the [Atom theme packages](https://atom.io/themes/tempo-theme)
+
 To install the Tempo Theme, open a terminal and type:
 ```shell
 apm install tempo-theme
