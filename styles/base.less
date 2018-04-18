@@ -1,0 +1,134 @@
+@import "syntax-variables";
+
+atom-text-editor {
+  background-color: @syntax-background-color;
+  color: @syntax-text-color;
+}
+
+atom-text-editor .gutter {
+  background-color: @syntax-gutter-background-color;
+  color: @syntax-gutter-text-color;
+}
+
+atom-text-editor .gutter .line-number.cursor-line {
+  background-color: @syntax-gutter-background-color-selected;
+  color: @syntax-gutter-text-color-selected;
+}
+
+atom-text-editor .gutter .line-number.cursor-line-no-selection {
+  color: @syntax-gutter-text-color-selected;
+}
+
+atom-text-editor .wrap-guide {
+  color: @syntax-wrap-guide-color;
+}
+
+atom-text-editor .indent-guide {
+  color: @syntax-indent-guide-color;
+}
+
+atom-text-editor .invisible-character {
+  color: @syntax-invisible-character-color;
+}
+
+atom-text-editor.is-focused .cursor {
+  border-color: @syntax-cursor-color;
+}
+
+atom-text-editor.is-focused .selection .region {
+  background-color: @syntax-selection-color;
+}
+
+atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-editor.is-focused .line.cursor-line {
+  background-color: #12485A;
+}
+
+.syntax--comment {
+  color: #88959E;
+}
+
+.syntax--string {
+  color: #00B8A8;
+}
+
+.syntax--constant.syntax--numeric {
+  color: #00B8A8;
+}
+
+.syntax--constant.syntax--language {
+  color: #0099F2;
+}
+
+.syntax--constant.syntax--character, .syntax--constant.syntax--other {
+  color: #0099F2;
+}
+
+.syntax--variable {
+  color: #C3CACE;
+}
+
+.syntax--keyword {
+  color: #EB851F;
+}
+
+.syntax--storage {
+  color: #EB851F;
+}
+
+.syntax--storage.syntax--type {
+  font-style: italic;
+  color: #00C3F2;
+}
+
+.syntax--entity.syntax--name.syntax--class {
+  color: #5997AF;
+}
+
+.syntax--entity.syntax--other.syntax--inherited-class {
+  font-style: italic;
+  text-decoration: underline;
+  color: #FFD00D;
+}
+
+.syntax--entity.syntax--name.syntax--function {
+  color: #FFC700;
+}
+
+.syntax--variable.syntax--parameter {
+  font-style: italic;
+  color: #0073EC;
+}
+
+.syntax--entity.syntax--name.syntax--tag {
+  color: #00B7F8;
+}
+
+.syntax--entity.syntax--other.syntax--attribute-name {
+  color: #FFD00D;
+}
+
+.syntax--support.syntax--function {
+  color: #248FB4;
+}
+
+.syntax--support.syntax--constant {
+  color: #00B8A8;
+}
+
+.syntax--support.syntax--type, .syntax--support.syntax--class {
+  font-style: italic;
+  color: #248FB4;
+}
+
+.syntax--support.syntax--other.syntax--variable {
+}
+
+.syntax--invalid {
+  color: #F8F8F0;
+  background-color: #DF3939;
+}
+
+.syntax--invalid.syntax--deprecated {
+  color: #F8F8F0;
+  background-color: #DF3939;
+}
