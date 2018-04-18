@@ -22,16 +22,16 @@ or
 You can use the Tempo theme with the most popular languages, including:
 
 ### Javascript
-<img src="https://tempo-theme.github.io/tempo-theme-intro/assets/screenshots/tempo-theme-javascript.png" width="80%" height="80%" />
+<img src="https://tempo-theme.github.io/assets/screenshots/tempo-theme-javascript.png" width="80%" height="80%" />
 
 ### CSS
-<img src="https://tempo-theme.github.io/tempo-theme-intro/assets/screenshots/tempo-theme-css.png" width="80%" height="80%" />
+<img src="https://tempo-theme.github.io/assets/screenshots/tempo-theme-css.png" width="80%" height="80%" />
 
 ### Python
-<img src="https://tempo-theme.github.io/tempo-theme-intro/assets/screenshots/tempo-theme-python.png" width="80%" height="80%" />
+<img src="https://tempo-theme.github.io/assets/screenshots/tempo-theme-python.png" width="80%" height="80%" />
 
 ### Java
-<img src="https://tempo-theme.github.io/tempo-theme-intro/assets/screenshots/tempo-theme-java.png" width="80%" height="80%" />
+<img src="https://tempo-theme.github.io/assets/screenshots/tempo-theme-java.png" width="80%" height="80%" />
 
 ## About Tempo
 Tempo is a top-selling, award-winning Atlassian ecosystem vendor. We create solutions for tracking time, planning projects, and managing business costs.
